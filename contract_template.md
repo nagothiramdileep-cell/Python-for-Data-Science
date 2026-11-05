@@ -13,7 +13,7 @@
 
 Use your university e-mail address.
 
-**Group number:** Mavericks  
+**Group number:** Maverickswhh  
 **Group name (optional):** ____
 
 | Role | File | Student name | GitHub username | Email |
