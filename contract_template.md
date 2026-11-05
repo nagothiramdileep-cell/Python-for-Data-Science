@@ -18,11 +18,11 @@ Use your university e-mail address.
 
 | Role | File | Student name | GitHub username | Email |
 |---|---|---|---|---|
-| A: Storage | `storage.py` | ____ | ____ | ____ |
-| B: Habit Manager | `habits.py` | ____ | ____ | ____ |
-| C: Analytics | `analytics.py` | ____ | ____ | ____ |
-| D: Reports and Charts | `reports.py` | ____ | ____ | ____ |
-| E: Command-Line App | `main.py`, `utils.py` | ____ | ____ | ____ |
+| A: Storage | `storage.py` | __ | ____ | ____ |
+| B: Habit Manager | `habits.py` | Jishitha Gotham | JishithaG | 100008691@stud.srh-university.de |
+| C: Analytics | `analytics.py` | Rohan Reddy | rohanyeruva | 100011545@stud.srh-university.de |
+| D: Reports and Charts | `reports.py` | Aasritha Devi Narra | aasrithadevinarra | 100011749@stud.srh-university.de |
+| E: Command-Line App | `main.py`, `utils.py` | Ram Dileep Nagothi | nagothiramdileep | 100008556@stud.srh-university.de |
 
 ---
 
@@ -40,19 +40,19 @@ Use your university e-mail address.
 
 ## 3. Our working agreements
 
-**Python version we all use:** ____ (3.10 or newer, for example 3.12)  
+**Python version we all use:** 3.13.9 (3.10 or newer, for example 3.12)  
 **Name of the data file:** `habits.json`
 
 **Weekly group check-in (about 10 minutes)**
-- Day and time: ____
-- Where (in person / online, which tool): ____
+- Day and time: Saturday and 14:00
+- Where (in person / online, which tool): Online - Google Meet
 - Who reminds the group: ____
 
 **Weekly update in `progress.md`**
-- Every student writes in their own section by (day): ____
+- Every student writes in their own section by (day): Saturday
 - We write: what is done, what is blocked.
 
-**How we talk:** (chat group, email, ...) ____
+**How we talk:** (chat group, email, ...) Chat Group
 
 **How we work with Git**
 - Each student changes **only their own files** and their own section of the shared files.
@@ -118,24 +118,23 @@ Write every change after Week 3 here. All **five students** *must agree*. Use in
 By typing my name and the date, I confirm that I have read this contract and that I agree to Sections 1 to 5.
 
 **Role A**  
-Name: ____   Date: ____
+Name: __   Date: ____
 
 ---
 
 **Role B**  
-Name: ____   Date: ____
-
+Name: Jishitha Gotham   Date: 04-11-2026
 ---
 
 **Role C**  
-Name: ____   Date: ____
+Name: Rohan Reddy   Date: 04-11-2026
 
 ---
 
 **Role D**  
-Name: ____   Date: ____
+Name: Aasritha Devi Narra   Date: 04-11-2026
 
 ---
 
 **Role E**  
-Name: ____   Date: ____
+Name: Ram Dileep Nagothi   Date: 04-11-2026
